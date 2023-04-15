@@ -1,0 +1,31 @@
+@import '../../../App.css';
+
+.page{
+    background-color: #fff;
+    text-align: center;
+}
+
+.screen{
+    width: 100%;
+    height: 500px;
+    background-image: url('../../../image/fotos2/AdobeStock_418365859_Preview.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: local;
+    background-color: var(--marronEscuro2);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    color: var(--brancoPersonalizado1);
+
+
+}
+
+.screen h1{
+    margin: auto;
+}
+
+
+

@@ -1,0 +1,33 @@
+@import '../../../App.css';
+
+footer{
+    background-color: #fff;
+}
+
+
+.options{
+    color: var(--marronEscuro1);
+    margin: 1px;
+    padding: 2px;
+}
+
+
+.options{
+    color: var(--marronEscuro1);
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.options span{
+    margin: 0 5px;
+}
+
+
+.options:hover{
+    color: var(--marronEscuro2);
+}
+

@@ -1,0 +1,32 @@
+@import '../../../App.css';
+
+.cabeçalho{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+
+    
+}
+
+.img{
+    background-image: url('../../../image/fotos/1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 150px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.options{
+    color: var(--marronEscuro1);
+    margin: 1px;
+    padding: 2px;
+}

@@ -1,0 +1,28 @@
+
+:root{
+
+  --marronEscuro1: #591C2C;
+  --marronEscuro2: #733C4A;
+  --marronEscuro3: #8C6872;
+  --marronEscuro4: #A68D94;
+  --marronEscuro5: #401A12;
+  --marromEscuro6: #D98C71;
+  --brancoPersonalizado1: #F2F2F2;
+  --rosaClaro1: #FFEDED;
+  --rosaClaro2: #F2E4E4;
+  --rosaForte1: #BF045B;
+  --rosaForte2: #D90479;
+  --rosaForte3: #F207B4; 
+
+}
+
+
+*{
+  margin: 0%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+body{
+  background-color: var(--rosaClaro2);
+}
